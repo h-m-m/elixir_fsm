@@ -1,0 +1,2 @@
+defmodule ElixirFsm do
+end
